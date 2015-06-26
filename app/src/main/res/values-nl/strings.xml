@@ -3,48 +3,48 @@
 
     <string name="app_name">Blitzortung Bliksem Monitor</string>
     <string name="ok">@android:string/ok</string>
-    <string name="cancel">@android:string/cancel</string>
+    <string name="cancel">@android:string/annuleer</string>
 
     <plurals name="strike">
-        <item quantity="zero">no strike</item>
-        <item quantity="one">1 strike</item>
-        <item quantity="other">%d strikes</item>
+        <item quantity="zero">geen ontladingen</item>
+        <item quantity="one">1 ontlading</item>
+        <item quantity="other">%d ontladingen</item>
     </plurals>
     <plurals name="minute">
-        <item quantity="one">1 minutes</item>
-        <item quantity="other">%d minutes</item>
+        <item quantity="one">1 minuut</item>
+        <item quantity="other">%d minuten</item>
     </plurals>
 
-    <string name="info">Information</string>
+    <string name="info">Informatie</string>
     <string name="info_text">Project home:\n\thttps://github.com/wuan/bo-android\n\nVisualized lightning data
         is\nprovided by the\n<b>Blitzortung.org</b>\nrealtime lighning community project. Please refer
         to\n\thttp://blitzortung.org/\nfor further information or how\nto participate.\n\nCzech translation by: Jakub Mareček (jakubmarecek715@gmail.com)\n
     </string>
     <string name="copyright">© 2011–2015, Andreas Würl\nblitzortung@tryb.de</string>
-    <string name="legend">Legend</string>
-    <string name="total_time">total time</string>
-    <string name="activity">activity</string>
-    <string name="during">during the past</string>
-    <string name="minute">minute</string>
-    <string name="alarms">Alarms</string>
-    <string name="alarms_not_available">Alarms disabled\nor\nLocation information missing</string>
+    <string name="legend">Legende</string>
+    <string name="total_time">totale tijd</string>
+    <string name="activity">activiteit</string>
+    <string name="during">afgelopen tijd</string>
+    <string name="minute">minuten</string>
+    <string name="alarms">Alarmen</string>
+    <string name="alarms_not_available">Alarmen uitgeschakeld\nof\nOntbrekende locatie informatie</string>
     <string name="layers">Layers</string>
-    <string name="preferences">Preferences</string>
-    <string name="user_settings">User settings</string>
-    <string name="username">Username</string>
-    <string name="username_summary">blitzortung.org participant user name</string>
-    <string name="password">Password</string>
-    <string name="password_summary">blitzortung.org participant password</string>
-    <string name="map_settings">Map settings</string>
-    <string name="map_mode">Map mode</string>
-    <string name="map_mode_summary">select satellite view or streetmap</string>
-    <string name="map_fade">Fade out map</string>
-    <string name="map_fade_summary">Fade map background to enhance visibility of data</string>
+    <string name="preferences">Voorkeuren</string>
+    <string name="user_settings">Gebruikersinstellingen</string>
+    <string name="username">Gebruikersnaam</string>
+    <string name="username_summary">blitzortung.org deelnemende gebruikersnaam</string>
+    <string name="password">Paswoord</string>
+    <string name="password_summary">blitzortung.org deelnemend paswoord</string>
+    <string name="map_settings">Kaartinstellingen</string>
+    <string name="map_mode">Kaartmodus</string>
+    <string name="map_mode_summary">selecteer satelliet of wegenkaart</string>
+    <string name="map_fade">Fade out kaart</string>
+    <string name="map_fade_summary">Fade achtergrond van kaart om de zichtbaarheid data te verbeteren</string>
 
     <string-array name="color_schemes">
         <item>Blitzortung.org</item>
-        <item>Rainbow</item>
-        <item>Temperature</item>
+        <item>Regenboog</item>
+        <item>Temperatuur</item>
     </string-array>
     <string-array name="color_scheme_values">
         <item>BLITZORTUNG</item>
@@ -52,23 +52,23 @@
         <item>TEMPERATURE</item>
     </string-array>
 
-    <string name="color_scheme">Color scheme</string>
-    <string name="color_scheme_summary">Color scheme of data display</string>
+    <string name="color_scheme">Kleurenschema</string>
+    <string name="color_scheme_summary">Kleurenschema van getoonde data</string>
 
     <string-array name="map_modes">
-        <item>Satellite</item>
-        <item>Streetmap</item>
+        <item>Satelliet</item>
+        <item>Wegenkaart</item>
     </string-array>
     <string-array name="map_mode_values">
         <item>SATELLITE</item>
         <item>STREETMAP</item>
     </string-array>
 
-    <string name="show_participants">Show participant locations</string>
-    <string name="show_participants_summary">show location of all stations in map (only with Blitzortung.org data
-        source)
+    <string name="show_participants">Toon deelnemende locaties</string>
+    <string name="show_participants_summary">toon locatie van alle stations op de kaart (enkel met Blitzortung.org data
+        bron)
     </string>
-    <string name="show_location">Show own location</string>
+    <string name="show_location">Toon eigen locatie</string>
     <string name="show_location_summary">include symbol for own location in map</string>
     <string name="data_settings">Data transmission</string>
     <string name="region">Region</string>
